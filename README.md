@@ -16,12 +16,12 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/marieemoiselle"><img src="https://img.shields.io/badge/GitHub-marieemoiselle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
+  <a href="https://github.com/morepancakestacks"><img src="https://img.shields.io/badge/GitHub-morepancakestacks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
   <a href="https://linkedin.com/in/fatimamarieagdon"><img src="https://img.shields.io/badge/LinkedIn-fatimamarieagdon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge" /></a>
   <a href="mailto:workwithfmpa@gmail.com"><img src="https://img.shields.io/badge/GMail-workwithfmpa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>
   <a href="discordapp.com/users/832236852286193715"><img src="https://img.shields.io/badge/Discord-marieemoiselle-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://marieemoiselle.tumblr.com"><img src="https://img.shields.io/badge/tumblr-marieemoiselle-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" /></a>
-</p>
+  <!--<a href="https://marieemoiselle.tumblr.com"><img src="https://img.shields.io/badge/tumblr-marieemoiselle-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" /></a>
+</p>->
 
 <!--
 **marieemoiselle/marieemoiselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 -->
 
 ## જ⁀➴ ♡ GitHub Stats ⋆˚꩜｡
-[![GitHub Streak](https://streak-stats.demolab.com?user=marieemoiselle&theme=duskfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=morepancakestacks&theme=duskfox)](https://git.io/streak-stats)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=marieemoiselle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
-![](https://github-trophies.vercel.app/?username=marieemoiselle)
-![](https://github-readme-stats.vercel.app/api?username=marieemoiselle&show_icons=true&theme=calm_pink)
-<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=marieemoiselle&layout=compact&theme=calm_pink)
+![](https://github-trophies.vercel.app/?username=morepancakestacks)
+![](https://github-readme-stats.vercel.app/api?username=morepancakestacks&show_icons=true&theme=calm_pink)
+<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=morepancakestacks&layout=compact&theme=calm_pink)
 
 ## જ⁀➴ ♡ Miscellaneous ⋆˚꩜｡
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marieemoiselle?theme=nord)
