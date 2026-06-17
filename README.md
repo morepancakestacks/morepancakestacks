@@ -13,7 +13,8 @@
 ✦ I like solving <strong>crossword and sudoku puzzles</strong>.<br/>
 ✦ I love pancakes, hence my username.<br/>
 ✦ Stay curious, keep building, and never stop debugging life, one step at a time.
-<br/>
+<br/><br/>
+
 <p align="center">
   <a href="https://github.com/morepancakestacks"><img src="https://img.shields.io/badge/GitHub-morepancakestacks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
   <a href="https://linkedin.com/in/fatimamarieagdon"><img src="https://img.shields.io/badge/LinkedIn-fatimamarieagdon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge" /></a>
