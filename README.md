@@ -19,8 +19,8 @@
   <a href="https://github.com/morepancakestacks"><img src="https://img.shields.io/badge/GitHub-morepancakestacks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
   <a href="https://linkedin.com/in/fatimamarieagdon"><img src="https://img.shields.io/badge/LinkedIn-fatimamarieagdon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge" /></a>
   <a href="mailto:workwithfmpa@gmail.com"><img src="https://img.shields.io/badge/GMail-workwithfmpa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>
-  <a href="discordapp.com/users/832236852286193715"><img src="https://img.shields.io/badge/Discord-marieemoiselle-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <!--<a href="https://marieemoiselle.tumblr.com"><img src="https://img.shields.io/badge/tumblr-marieemoiselle-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" /></a>
+  <!--<a href="discordapp.com/users/832236852286193715"><img src="https://img.shields.io/badge/Discord-marieemoiselle-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://marieemoiselle.tumblr.com"><img src="https://img.shields.io/badge/tumblr-marieemoiselle-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr" /></a>
 </p>->
 
 <!--
