@@ -11,10 +11,9 @@
 ✦ Hello! My name is <strong>Marie</strong> (<i>she, her, hers</i>), a graduate of <strong>MS Computer Science</strong> and a <strong>Computer Science Instructor</strong> from the <b>Philippines</b>.<br/>
 ✦ Currently studying: <strong>Data Structures and Algorithms</strong>, <strong>Object-oriented Programming</strong>, <strong>programming languages</strong><br/>
 ✦ I like solving <strong>crossword and sudoku puzzles</strong>.<br/>
+✦ I love pancakes, hence my username.<br/>
 ✦ Stay curious, keep building, and never stop debugging life, one step at a time.
-
-<br/><br/>
-
+<br/>
 <p align="center">
   <a href="https://github.com/morepancakestacks"><img src="https://img.shields.io/badge/GitHub-morepancakestacks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" /></a>
   <a href="https://linkedin.com/in/fatimamarieagdon"><img src="https://img.shields.io/badge/LinkedIn-fatimamarieagdon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge" /></a>
@@ -54,4 +53,4 @@ Here are some ideas to get you started:
 <br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=morepancakestacks&layout=compact&theme=calm_pink)
 
 ## જ⁀➴ ♡ Miscellaneous ⋆˚꩜｡
-![Leetcode Stats](https://leetcard.jacoblin.cool/marieemoiselle?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/morepancakestacks?theme=nord)
